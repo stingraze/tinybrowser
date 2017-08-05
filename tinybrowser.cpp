@@ -21,7 +21,7 @@ int WINAPI WinMain(	HINSTANCE hInstance,
     SOCKET s;
     struct sockaddr_in server;
     char *message , server_reply[32000];
-	char *message2;
+
     int recv_size;
 	char ip[100];
     struct hostent *he;

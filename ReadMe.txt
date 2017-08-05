@@ -2,6 +2,12 @@
        Windows CE APPLICATION : tinybrowser
 ========================================================================
 
+Ported by Tsubasa Kato 2017
+
+Friendly Note:
+
+ws2.lib (Winsocket 2 for Windows CE) is at C:\Program Files (x86)\Windows CE Tools\wce400\STANDARDSDK\Lib\Armv4
+& winsock2.h is also needed and is available here: C:\Program Files (x86)\Windows CE Tools\wce400\STANDARDSDK\Include\Armv4 
 
 AppWizard has created this tinybrowser application for you.  
 
